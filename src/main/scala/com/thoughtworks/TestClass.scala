@@ -32,5 +32,6 @@ object TestClass {
         .start()
 
     query.awaitTermination()
+
   }
 }
