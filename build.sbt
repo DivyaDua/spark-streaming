@@ -11,4 +11,4 @@ libraryDependencies ++= Seq(
   //"org.apache.spark" %% "spark-streaming" % "2.4.4" % "provided"
 )
 
-publishTo := Some(Resolver.file("local-ivy", file("/Users/divya.dua/Documents/spark-streaming")))
+publishTo := Some(Resolver.file("local-ivy", file("/Users/divya.dua/Documents/spark-streaming1")))
